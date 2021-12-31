@@ -1,0 +1,11 @@
+Este repositório contém o código, imagem e pastas nomeadas conforme o código para teste, não consegui finalizar mas é este o caminho segundo a  documentação
+
+instalar a biblioteca: pip install docxtpl
+
+Ler documentação: https://docxtpl.readthedocs.io/en/latest/
+
+Código exemplo:
+https://github.com/elapouya/python-docx-template/blob/master/tests/inline_image.py
+
+Nesse tutorial tem um exemplo mas não é exatamente o que queremos: https://www.youtube.com/watch?v=RgVQuSTGBMo&t=66s&ab_channel=Python360
+
